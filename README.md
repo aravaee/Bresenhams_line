@@ -4,3 +4,9 @@
 
 # Objective
 Program a method `drawLine(p1,p2,color)` that draws a line in the image from point `p1` to point `p2` with `color`. The points `p1` and `p2` are expressed as matrices (x , y)<sup>T</sup> (column vectors). The color is a tuple of the form `(r,g,b)`, where r,g,b are values between 0 and 255.
+
+## Run the script
+`python testAssignment1.py`
+
+### Output
+![](output.jpeg)
