@@ -1,3 +1,4 @@
-# PDF and Images
+# Ignore PDFs, Images, and pyc files
 *.pdf
 *.png
+*.pyc
